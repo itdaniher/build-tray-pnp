@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/370/trunk/svgfig
+END
+_viewer.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/334/trunk/svgfig/_viewer.c
+END
+interactive.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/348/trunk/svgfig/interactive.py
+END
+_curve.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/308/trunk/svgfig/_curve.c
+END
+plot.py
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/355/trunk/svgfig/plot.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/348/trunk/svgfig/__init__.py
+END
+svg.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/368/trunk/svgfig/svg.py
+END
+_viewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/370/trunk/svgfig/_viewer.py
+END
+curve.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/355/trunk/svgfig/curve.py
+END
+glyphs.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/342/trunk/svgfig/glyphs.py
+END
+pathdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/370/trunk/svgfig/pathdata.py
+END
+trans.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/355/trunk/svgfig/trans.py
+END
+defaults.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/366/trunk/svgfig/defaults.py
+END
